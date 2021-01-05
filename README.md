@@ -1,4 +1,4 @@
-## Hi y'all 👋
+## Hi y'all. I'm Miguel 👋
 
 - 🔭 I’m currently working on a high scale accounting solution. 
 - 🌱 I’m currently learning functional programming and Scala.
