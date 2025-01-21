@@ -2,7 +2,7 @@
 
 I’m a Cloud Engineer at [Globant](https://www.globant.com/). 
 
-- ⚙️ I use daily: `.sh`, `.py`, `.lua`, `.js`, `.ts`, `.rb`
+- ⚙️ I use daily: `.sh`, `.py`, `.lua`, `.js`, `.ts`, `.rb`.
 - 🌱 I’m currently learning Rust.
 - 👯 I'm learning all about Open Source projects.
 - 😄 Pronouns: he/him.
