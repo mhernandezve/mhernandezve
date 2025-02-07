@@ -18,5 +18,5 @@
 ##### MY AWESOME LISTS
 -  🔖 [Awesome Terminal Emulators and Tools](https://github.com/mhernandezve/awesome-terminal)
 
-By [Miguel Hernández - 2025](https://miguelhernandezgiusti.com)
+By: [Miguel Hernández - 2025](https://miguelhernandezgiusti.com)
 
