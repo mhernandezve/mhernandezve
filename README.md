@@ -16,6 +16,7 @@
 - 📘 [Todo sobre los patrones de diseño «serverless» de AWS](https://medium.com/@mhernandezve/todo-sobre-los-patrones-de-dise%C3%B1o-serverless-de-aws-a250223fd741) Spanish 🇪🇸
 
 ##### MY AWESOME LISTS
-- [All about AWS Serverless Design Patterns](https://github.com/mhernandezve/awesome-terminal)
+-  🔖 [All about AWS Serverless Design Patterns](https://github.com/mhernandezve/awesome-terminal)
 
-By [Miguel Hernández](https://miguelhernandezgiusti.com)
+By [Miguel Hernández - 2025](https://miguelhernandezgiusti.com)
+
