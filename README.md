@@ -6,7 +6,7 @@
 - 💡 Passionate about Cloud, DevOps, and Automation.
 ### 🌱 Interests
 - 🤖 Currently exploring AI projects.
-- 🔍 Deep diving into Open Source contributions
+- 🔍 Deep diving into Open Source contributions.
 ### 📚 Writing & Resources
 - ✍️ Follow me on Medium for insights on Cloud, DevOps, and AI.
 - 📫 Reach me at: mh [at] andsoluciones.com.
@@ -17,7 +17,7 @@
 ### 🔖 Awesome Lists
 - 📌 [Awesome Terminal Emulators and Tools](https://github.com/mhernandezve/awesome-terminal)
 
-🐱 Cat lover | 😄 Pronouns: he/him
+🐱 Cat lover | 😄 Pronouns: he/him.
 
 By: [Miguel Hernández - 2025](https://miguelhernandezgiusti.com)
 
