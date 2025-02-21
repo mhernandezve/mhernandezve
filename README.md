@@ -1,7 +1,6 @@
 ## Hi there. I'm Miguel 👋
-🚀 Cloud & DevOps Engineer | Senior Engineer at [Globant](https://www.globant.com/).
-
-📍 Based in Quito, Ecuador.
+- 🚀 Cloud & DevOps Engineer | Senior Engineer at [Globant](https://www.globant.com/).
+- 📍 Based in Quito, Ecuador.
 ### 🛠️ Tech Stack
 - ⚙️ I work daily with: `.sh`, `.py`, `.lua`, `.js`, `.ts`, `.rb`, `.tf`.
 - 💡 Passionate about Cloud, DevOps, and Automation.
@@ -9,8 +8,8 @@
 - 🤖 Currently exploring AI projects.
 - 🔍 Deep diving into Open Source contributions
 ### 📚 Writing & Resources
-✍️ Follow me on Medium for insights on Cloud, DevOps, and AI
-📫 Reach me at: mh [at] andsoluciones.com
+- ✍️ Follow me on Medium for insights on Cloud, DevOps, and AI.
+- 📫 Reach me at: mh [at] andsoluciones.com.
 ### 📝 Blog Posts
 - 📙 [All about AWS Serverless Design Patterns](https://medium.com/globant/all-about-aws-serverless-design-patterns-885106882e5f)
 - 📘 [Understanding the C4 Model](https://medium.com/globant/understanding-the-c4-model-64dceb60fe73)
