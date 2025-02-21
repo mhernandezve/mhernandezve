@@ -1,5 +1,6 @@
 ## Hi there. I'm Miguel 👋
 🚀 Cloud & DevOps Engineer | Senior Engineer at [Globant](https://www.globant.com/).
+
 📍 Based in Quito, Ecuador.
 ### 🛠️ Tech Stack
 - ⚙️ I work daily with: `.sh`, `.py`, `.lua`, `.js`, `.ts`, `.rb`, `.tf`.
